@@ -1,5 +1,8 @@
 _repo: Salt-and-the-salt-industry_69590
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69590-h/images/cover.jpg
 creator:
   author:
     agent_name: Calvert, Albert Frederick
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39139
     wikipedia: https://en.wikipedia.org/wiki/Albert_Frederick_Calvert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69590#Salt-and-the-salt-industry
 gutenberg_issued: '2022-12-19'
 identifiers:
   gutenberg: '69590'
